@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\ari_yazilim\Deneme\Yılanoyunu\Yılanoyunu\bin\Debug\net8.0-windows\Yılanoyunu.exe
+C:\Users\Serhat\Desktop\ari_yazilim\Deneme\Yılanoyunu\Yılanoyunu\bin\Debug\net8.0-windows\Yılanoyunu.deps.json
+C:\Users\Serhat\Desktop\ari_yazilim\Deneme\Yılanoyunu\Yılanoyunu\bin\Debug\net8.0-windows\Yılanoyunu.runtimeconfig.json
+C:\Users\Serhat\Desktop\ari_yazilim\Deneme\Yılanoyunu\Yılanoyunu\bin\Debug\net8.0-windows\Yılanoyunu.dll
+C:\Users\Serhat\Desktop\ari_yazilim\Deneme\Yılanoyunu\Yılanoyunu\bin\Debug\net8.0-windows\Yılanoyunu.pdb
+C:\Users\Serhat\Desktop\ari_yazilim\Deneme\Yılanoyunu\Yılanoyunu\obj\Debug\net8.0-windows\Yılanoyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\ari_yazilim\Deneme\Yılanoyunu\Yılanoyunu\obj\Debug\net8.0-windows\Yılanoyunu.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\ari_yazilim\Deneme\Yılanoyunu\Yılanoyunu\obj\Debug\net8.0-windows\Yılanoyunu.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\ari_yazilim\Deneme\Yılanoyunu\Yılanoyunu\obj\Debug\net8.0-windows\Yılanoyunu.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\ari_yazilim\Deneme\Yılanoyunu\Yılanoyunu\obj\Debug\net8.0-windows\Yılanoyunu.dll
+C:\Users\Serhat\Desktop\ari_yazilim\Deneme\Yılanoyunu\Yılanoyunu\obj\Debug\net8.0-windows\refint\Yılanoyunu.dll
+C:\Users\Serhat\Desktop\ari_yazilim\Deneme\Yılanoyunu\Yılanoyunu\obj\Debug\net8.0-windows\Yılanoyunu.pdb
+C:\Users\Serhat\Desktop\ari_yazilim\Deneme\Yılanoyunu\Yılanoyunu\obj\Debug\net8.0-windows\Yılanoyunu.genruntimeconfig.cache
+C:\Users\Serhat\Desktop\ari_yazilim\Deneme\Yılanoyunu\Yılanoyunu\obj\Debug\net8.0-windows\ref\Yılanoyunu.dll
+C:\Users\Serhat\Desktop\ari_yazilim\Deneme\Yılanoyunu\Yılanoyunu\obj\Debug\net8.0-windows\Yılanoyunu.YılanOyunu.resources
+C:\Users\Serhat\Desktop\ari_yazilim\Deneme\Yılanoyunu\Yılanoyunu\obj\Debug\net8.0-windows\Yılanoyunu.csproj.GenerateResource.cache
